@@ -7,3 +7,8 @@ A tool to help teachers write comments.
 The underlying logic and some key parts have been completed. The first version is expected in August 2023.
 
 目前已经完成底层逻辑和一些关键部分。预计在2023年8月发行第一个版本。
+
+
+You can participate in the survey here: https://www.wjx.cn/vm/wFFViRM.aspx 
+
+你可以在这里参与调查：https://www.wjx.cn/vm/wFFViRM.aspx
