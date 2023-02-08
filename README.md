@@ -1,4 +1,4 @@
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![chat:](/discord/:serverId)]
 # Auto-Comments
 A tool to help teachers write comments.
 
